@@ -1,16 +1,15 @@
-# Nome do projeto
+# Alocação de Veículos
 
-Escreva um ou dois parágrafos resumindo o objetivo de seu projeto.
+A aplicação proposta tem como principal foco oferecer uma plataforma integrada e intuitiva para locadoras de veículos, visando otimizar seus processos de gestão. Ao abordar os desafios enfrentados por essas empresas, como a falta de integração nos sistemas de gestão e processos manuais demorados, o projeto busca desenvolver soluções tecnológicas que melhorem a eficiência operacional e a experiência do cliente.
 
 ## Integrantes
-
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
-* Nome completo do aluno 5
-* Nome completo do aluno 6
+* Gabriel Ferreira dos Santos
+* Lucas Soares dos Reis
+* Leonardo Guedes Gomes Junior
+* Vitor Gabriel Linas
+* Wellington Fernandes De Souza Vaz
+* Davih Gonçalves Duque
 
 ## Professor
 
-* Nome completo do professor
+* Juliana Amaral Baroni de Carvalho
