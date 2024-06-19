@@ -1,18 +1,18 @@
 # YAML 1.2
 ---
 authors: 
-  - family-names: sobrenome do aluno 1
-    given-names: Nome do aluno 1 
-  - family-names: sobrenome do aluno 2
-    given-names: Nome do aluno 2 
-  - family-names: sobrenome do aluno 3
-    given-names: Nome do aluno 3 
-  - family-names: sobrenome do aluno 4
-    given-names: Nome do aluno 4 
-  - family-names: sobrenome do aluno 5
-    given-names: Nome do aluno 5 
-  - family-names: sobrenome do aluno 6
-    given-names: Nome do aluno 6
+  - family-names: Ferreira dos Santos
+    given-names: Gabriel
+  - family-names: Soares dos Reis
+    given-names: Lucas
+  - family-names: Guedes Gomes Junior
+    given-names: Leonardo
+  - family-names: Gabriel Linas
+    given-names: Vitor
+  - family-names: Fernandes De Souza Vaz
+    given-names: Wellington
+  - family-names: Gonçalves Duque
+    given-names: Davih
     
   - name-suffix: Professor
     affiliation: PUC Minas
@@ -30,15 +30,15 @@ authors:
 cff-version: "1.1.0"
 keywords: 
   - "Modelagem de Processos de Negócios"
-  - "Palavra chave 2"
-  - "Palavra chave 3"
+  - "Alocações de Veículos"
+  - "Automação"
 message: |
     "If you use this software, please cite it using these metadata.
     Se você utilizar este software, por favor cite-o utilizando estes metadados."
-repository-code: "https://github.com/url do projeto"
-title: "Título do projeto"
+repository-code: "https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe2-t3-grupo-4-alocacao-de-veiculos"
+title: "Alocação de Veículos"
 abstract: |
     "
-    Breve descrição do projeto
+    A aplicação proposta tem como principal foco oferecer uma plataforma integrada e intuitiva para locadoras de veículos, visando otimizar seus processos de gestão. Ao abordar os desafios enfrentados por essas empresas, como a falta de integração nos sistemas de gestão e processos manuais demorados, o projeto busca desenvolver soluções tecnológicas que melhorem a eficiência operacional e a experiência do cliente.
     "
 ...
